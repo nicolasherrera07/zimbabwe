@@ -1,0 +1,10 @@
+h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 58px;
+	font-style: italic;
+	text-decoration: underline; text-align:center; color:#FFFFFF}
+h2{font-family:"Times New Roman", Times, serif; font-size:30px; text-align:center; color:#FFFFFF}
+body { background-image:url(aaaaa.png); background-repeat:no-repeat; background-position:right top;}
+body{background-color: #D45F00}
+h3 {font:"Times New Roman", Times, serif; font-style:italic; color:#FFFFFF; text-align:center; font-size:27px}
+h4 {font:"Times New Roman", Times, serif; font-style:italic; color:#FFFFFF; text-align:left; font-size:27px}
